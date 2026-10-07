@@ -1,0 +1,6 @@
+{
+  "name": "MediVault - Secure Health Records & Report AI",
+  "description": "Full-stack healthcare platform with role-based access, encrypted report vault, OCR metric extraction, AI report explanations, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
