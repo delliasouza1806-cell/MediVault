@@ -1,7 +1,7 @@
 # MediVault: Full-Stack Clinical Record Vault & AI Report Intelligence
 
-> **Final Year B.E. Computer Science & Engineering Capstone Project**  
-> **Student:** Final Year B.E. CSE Candidate | **Domain:** Full-Stack Systems, DBMS, Applied Information Security & AI  
+> **Third Year B.E. Computer Science & Engineering Capstone Project**  
+> **Student:** Third Year B.E. CSE Candidate | **Domain:** Full-Stack Systems, DBMS, Applied Information Security & AI  
 > **Target Roles:** Software Development Engineer (SDE-1), Full-Stack Engineer (TCS Digital/Prime, Infosys DSE, Cognizant GenC Next, Product Startups)  
 > **Live Demo URL:** AI Studio Cloud Run Preview
 
